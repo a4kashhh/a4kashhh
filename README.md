@@ -16,7 +16,7 @@
 
 <span style="color:#8b949e">-------------------- Contact --------------------</span>
 
-<span style="color:#ff7b72">Email:</span>    <span style="color:#79c0ff">akashpandey.connect@gmail.com</span>  
-<span style="color:#ff7b72">LinkedIn:</span> <span style="color:#79c0ff">[linkedin.com/in/akashpandey](https://www.linkedin.com/in/akash-pandey-987466190/)</span>  
-<span style="color:#ff7b72">GitHub:</span>   <span style="color:#79c0ff">[github.com/yourusername](https://github.com/a4kashhh)</span> 
+<span style="color:#ff7b72">Email:</span>    <span style="color:#79c0ff">(akashpandey.connect@gmail.com)</span>  
+<span style="color:#ff7b72">LinkedIn:</span> <span style="color:#79c0ff">(https://www.linkedin.com/in/akash-pandey-987466190/)</span>  
+<span style="color:#ff7b72">GitHub:</span>   <span style="color:#79c0ff">(https://github.com/a4kashhh)</span> 
 </pre>
