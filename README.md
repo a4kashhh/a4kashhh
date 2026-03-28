@@ -1,27 +1,29 @@
-```ansi
-[1;34makash@pandey[0m --------------------------------------------------------------
+<pre>
+<span style="color:#2f81f7">akash@pandey</span> --------------------------------------------------------------
 
-[1;31mOS:[0m        [1;36mWindows 11, Android, Linux[0m
-[1;31mUptime:[0m    [1;36m20 years, still compiling life[0m
-[1;31mHost:[0m      [1;36mVIT Bhopal University[0m
-[1;31mKernel:[0m    [1;36mComputer Science Engineering (E-Commerce)[0m
-[1;31mIDE:[0m       [1;36mVS Code, IntelliJ IDEA[0m
+<span style="color:#ff7b72">OS:</span>        <span style="color:#79c0ff">Windows 11, Android, Linux</span>  
+<span style="color:#ff7b72">Uptime:</span>    <span style="color:#79c0ff">20 years, still compiling life</span>  
+<span style="color:#ff7b72">Host:</span>      <span style="color:#79c0ff">VIT Bhopal University</span>  
+<span style="color:#ff7b72">Kernel:</span>    <span style="color:#79c0ff">Computer Science Engineering (E-Commerce)</span>  
+<span style="color:#ff7b72">IDE:</span>       <span style="color:#79c0ff">VS Code, IntelliJ IDEA</span>  
 
-[1;31mLanguages.Programming:[0m [1;36mJava, Python, C++, JavaScript[0m
-[1;31mLanguages.Computer:[0m    [1;36mHTML, CSS, JSON, LaTeX[0m
-[1;31mLanguages.Real:[0m        [1;36mEnglish, Hindi[0m
+<span style="color:#ff7b72">Languages.Programming:</span> <span style="color:#79c0ff">Java, Python, C++, JavaScript</span>  
+<span style="color:#ff7b72">Languages.Computer:</span>    <span style="color:#79c0ff">HTML, CSS, JSON, LaTeX</span>  
+<span style="color:#ff7b72">Languages.Real:</span>        <span style="color:#79c0ff">English, Hindi</span>  
 
-[1;31mHobbies.Software:[0m [1;36mUI/UX Design, Web Dev, Open Source[0m
-[1;31mHobbies.Hardware:[0m [1;36mSystem Optimization, Experimenting[0m
+<span style="color:#ff7b72">Hobbies.Software:</span> <span style="color:#79c0ff">UI/UX Design, Web Development, Open Source</span>  
+<span style="color:#ff7b72">Hobbies.Hardware:</span> <span style="color:#79c0ff">System Optimization, Experimenting</span>  
 
-[1;90m-------------------- Contact --------------------[0m
+<span style="color:#8b949e">-------------------- Contact --------------------</span>
 
-[1;31mEmail:[0m    [1;36makashpandey7000468463@gmail.com[0m
-[1;31mLinkedIn:[0m [1;36mlinkedin.com/in/akashpandey[0m
-[1;31mGitHub:[0m   [1;36mgithub.com/yourusername[0m
+<span style="color:#ff7b72">Email:</span>    <span style="color:#79c0ff">akashpandey7000468463@gmail.com</span>  
+<span style="color:#ff7b72">LinkedIn:</span> <span style="color:#79c0ff">linkedin.com/in/akashpandey</span>  
+<span style="color:#ff7b72">GitHub:</span>   <span style="color:#79c0ff">github.com/yourusername</span>  
 
-[1;90m-------------------- GitHub Stats --------------------[0m
+<span style="color:#8b949e">-------------------- GitHub Stats --------------------</span>
 
-[1;31mRepos:[0m XX | [1;31mStars:[0m XX
-[1;31mCommits:[0m XX | [1;31mFollowers:[0m XX
-[1;31mLines of Code:[0m to define is to limits 💫
+<span style="color:#ff7b72">Repos:</span> <span style="color:#79c0ff">XX</span> | <span style="color:#ff7b72">Stars:</span> <span style="color:#79c0ff">XX</span>  
+<span style="color:#ff7b72">Commits:</span> <span style="color:#79c0ff">XX</span> | <span style="color:#ff7b72">Followers:</span> <span style="color:#79c0ff">XX</span>  
+<span style="color:#ff7b72">Lines of Code:</span> <span style="color:#79c0ff">Growing every day 🚀</span>  
+
+</pre>
